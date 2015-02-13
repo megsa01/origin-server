@@ -1,2 +1,3 @@
-# OpenShift Cron Cartridge
+# OpenShift Cron Cartridge for jobs
 This cartridge is documented in the [Cartridge Guide](http://openshift.github.io/documentation/oo_cartridge_guide.html#cron).
+
